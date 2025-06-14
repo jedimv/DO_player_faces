@@ -5,9 +5,11 @@
 // @description  dugout-online player face generation
 // @author       Helamam
 // @icon         https://i.ibb.co/kDL4QcD/premium1t.png
-// @require	     http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js
+// @require	 http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js
 // @include      http*dugout-online.com/*
 // @include      https://www.dugout-online.com/*
+// @downloadURL  https://raw.githubusercontent.com/jedimv/DO_player_faces/main/DOplayerfaces.user.js
+// @updateURL    https://raw.githubusercontent.com/jedimv/DO_player_faces/main/DOplayerfaces.user.js
 // ==/UserScript==
 //page select ----------------------------------------------//
 
