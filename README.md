@@ -4,4 +4,4 @@ a script based on a simple algorythm, to generate a face and keep it the same.
 graphics from fifa 13 to 16;
 
 requeriments: tampermonkey;
-to add the script just [click here]([url](https://github.com/jedimv/DO_player_faces/raw/main/DO_player_faces.user.js)).
+to add the script just [click here]([url](https://github.com/jedimv/DO_player_faces/raw/main/DO_player_faces.js)).
