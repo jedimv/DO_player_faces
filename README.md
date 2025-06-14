@@ -1,4 +1,4 @@
-# DO_player_faces v0.1
+# DO_player_faces v1.0
 
 a script based on a simple algorythm, to generate a face and keep it the same.
 graphics from fifa 13 to 16;
