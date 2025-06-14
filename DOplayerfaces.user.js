@@ -8,6 +8,8 @@
 // @require	     http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js
 // @include      http*dugout-online.com/*
 // @include      https://www.dugout-online.com/*
+// @downloadURL  https://raw.githubusercontent.com/jedimv/DO_player_faces/main/DOplayerfaces.user.js
+// @updateURL    https://raw.githubusercontent.com/jedimv/DO_player_faces/main/DOplayerfaces.user.js
 // ==/UserScript==
 
 var page = document.URL;
